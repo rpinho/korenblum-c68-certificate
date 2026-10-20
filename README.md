@@ -2,6 +2,8 @@
 
 Ricardo Pinho · [ORCID 0009-0006-2744-2599](https://orcid.org/0009-0006-2744-2599)
 
+Preprint: [hexagon:2610.00399v1](https://hexagonmath.org/2610.00399?version=1) · Zenodo [10.5281/zenodo.23483542](https://doi.org/10.5281/zenodo.23483542)
+
 This unrefereed preprint gives an analytic argument and an exact rational
 certificate for **c₂ ≥ 54/125 = 0.432** in the unweighted Bergman space A²(D).
 It combines a two-zero covering-strip Schwarz estimate, the classical hyperbolic

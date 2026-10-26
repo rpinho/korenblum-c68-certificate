@@ -1,5 +1,8 @@
 # Korenblum’s constant: a certificate for C₆₈ ≥ 0.432
 
+[Merged into Tao's optimization-constants table](https://github.com/teorth/optimizationproblems/pull/239)
+on October 26, 2026 (UTC). The result remains unrefereed; table inclusion is not expert peer review or formal verification.
+
 Ricardo Pinho · [ORCID 0009-0006-2744-2599](https://orcid.org/0009-0006-2744-2599)
 
 Preprint: [hexagon:2610.00399v1](https://hexagonmath.org/2610.00399?version=1) · Zenodo [10.5281/zenodo.23483542](https://doi.org/10.5281/zenodo.23483542)

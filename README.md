@@ -1,6 +1,6 @@
 # Korenblum’s constant: a certificate for C₆₈ ≥ 0.432
 
-**Newer result:** [contact-spectral/](contact-spectral/) proves C₆₈ ≥ 0.44667 (unrefereed, 30 October 2026).
+**Newer result:** [contact-spectral/](contact-spectral/) proves C₆₈ ≥ 0.44667 (unrefereed, 30 October 2026). Preprint: [hexagon:2610.00696](https://hexagonmath.org/2610.00696).
 
 [Merged into Tao's optimization-constants table](https://github.com/teorth/optimizationproblems/pull/239)
 on October 26, 2026 (UTC). The result remains unrefereed; table inclusion is not expert peer review or formal verification.
